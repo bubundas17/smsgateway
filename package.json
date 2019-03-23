@@ -1,0 +1,12 @@
+{
+  "name": "smsapi-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "smshelper": "^0.1.0"
+  }
+}
